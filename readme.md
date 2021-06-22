@@ -1,3 +1,3 @@
 # Git Demo
 
-Demo repository for Germain.
+This is a demonstration of the git workflow for the Codeup Germain cohort.
